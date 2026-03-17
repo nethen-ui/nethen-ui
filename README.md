@@ -1,5 +1,5 @@
 # About Me:
-I am a passionate computer scientist and cybersecurity enthusiast from Ethiopia, dedicated to building secure and efficient software systems. My journey started with foundational courses in programming and AI, and I have applied this knowledge to real-world projects in cybersecurity, penetration testing, and data analysis. I enjoy exploring cryptography, ethical hacking, and the intersection of technology and security policy. I am committed to continuous learning, collaborating with fellow developers, and mentoring others in coding and security practices.
+I am a passionate computer scientist and cybersecurity enthusiast from Ethiopia, dedicated to building secure and efficient software systems. My journey started with foundational courses in programming, and I have applied this knowledge to real-world projects in cybersecurity and penetration testing. I enjoy exploring cryptography, ethical hacking, and the intersection of technology and security policy. I am committed to continuous learning, collaborating with fellow developers, and mentoring others in coding and security practices.
 
 
 ## Socials:
